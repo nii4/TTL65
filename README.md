@@ -7,6 +7,7 @@ Download the latest release and flash with Magisk.
 # Usage
 Flash and forget. Your TTL should now be set to 65 even after reboots and updates.
 
+# Extra
 If you want to check the TTL setting for yourself, you can do so in the following way:
 
 1. Open a terminal on your device (ex - Termux)
