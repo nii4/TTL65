@@ -2,7 +2,7 @@
 A simple Magisk module to add a setting of TTL=65, for tethering. With the Magisk module, the system setting change will be applied on reboots and after updates. No more need for commands, terminals or scripts. This is meant to be used on devices which are connecting to your mobile hotspot. 
 
 # Install
-Download the latest release and flash with Magisk.
+Download the latest release, flash with Magisk and reboot.
 
 # Usage
 Flash and forget. Your TTL should now be set to 65 even after reboots and updates.
